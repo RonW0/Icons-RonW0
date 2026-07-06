@@ -1,1 +1,1 @@
-These are for personal use.  
+These are for personal use only.  
