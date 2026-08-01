@@ -1,5 +1,5 @@
 To create a new Git Folder
-1.  Go to create new file
+1.  Go to <b> ADD <b> new file
 2.  In the titel box, write the folder name followed by /. "Example - Icons/."
 3.  Next you need to create a dummy txt file...can be empty file.  "Example - tes.txt"
 4.  Commit changes and leave radio buttons at default settings.
